@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GirishJetty
 - 👀 I’m interested in Cyber Security & Web Development
-- 🌱 I’m currently learning Jalandhar Punjab
+- 🌱 I’m currently leavning Jalandhar Punjab
 - 💞️ I’m looking to collaborate on Web Based Projects
 - 📫 How to reach me gireesh@atsewa.com
 
